@@ -1,0 +1,1 @@
+# hp-pavilion-tg01-linux-guide
